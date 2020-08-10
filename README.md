@@ -1,6 +1,6 @@
 ### Hello, my name is Lucas 🖐🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucastferreira/)](https://www.linkedin.com/in/lucastferreira/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucastferreira/)](https://www.linkedin.com/in/lucastferreira/)
 
 ## A little about me:
 
@@ -31,8 +31,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br><br>
-
----
 
 ## Stats:
 
