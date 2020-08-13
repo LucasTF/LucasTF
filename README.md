@@ -8,8 +8,8 @@
 -   🖥 Fullstack developer
 -   🗣 Portuguese, english and spanish speaker
 -   🧠 Experience developing applications with Java, C# and JavaScript
--   🤝 Open for new work opportunities
--   📖 Currently studying Dart and Flutter
+-   🤝 Currently working on e-commerce solutions
+-   📖 Currently studying NextJS
 -   🇧🇷 Brazilian
 
 ## Technologies:
