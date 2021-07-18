@@ -7,9 +7,8 @@
 -   👨🏻‍🎓 Graduate on Computer Science at Pontifícia Universidade Católica de São Paulo (PUC-SP)
 -   🖥 Fullstack developer
 -   🗣 Portuguese, english and spanish speaker
--   🧠 Experience developing applications with Java, C# and JavaScript
--   🤝 Currently working on e-commerce solutions
--   📖 Currently studying NextJS
+-   🧠 Experience developing applications with Java, C# and JavaScript/TypeScript
+-   📖 Currently studying VueJS
 -   🇧🇷 Brazilian
 
 ## Technologies:
