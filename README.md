@@ -7,29 +7,24 @@
 -   👨🏻‍🎓 Graduate on Computer Science at Pontifícia Universidade Católica de São Paulo (PUC-SP)
 -   🖥 Fullstack developer
 -   🗣 Portuguese, english and spanish speaker
--   🧠 Experience developing applications with Java, C# and JavaScript/TypeScript
--   📖 Currently studying VueJS
+-   🧠 Experience developing applications with Java, C#, JS, TS & React
+-   📖 Currently studying PHP & Laravel
 -   🇧🇷 Brazilian
 
 ## Technologies:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Java" width="26px" src="https://halab4dev.files.wordpress.com/2016/07/java-logo.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
+<img align="left" alt="Arch Linux" width="32px" src="https://api.iconify.design/logos:archlinux.svg" />
+<img align="left" alt="HTML5" height="32px" width="32px" src="https://api.iconify.design/logos:html-5.svg" />
+<img align="left" alt="CSS3" height="32px" width="32px" src="https://api.iconify.design/logos:css-3.svg" />
+<img align="left" alt="JavaScript" width="32px" src="https://api.iconify.design/logos:javascript.svg" />
+<img align="left" alt="TypeScript" width="32px" src="https://api.iconify.design/logos:typescript-icon.svg" />
+<img align="left" alt="React" width="32px" src="https://api.iconify.design/logos:react.svg" />
+<img align="left" alt="NextJS" width="32px" src="https://api.iconify.design/logos:nextjs-icon.svg" />
+<img align="left" alt="NodeJS" height="32px" width="32px" src="https://api.iconify.design/logos:nodejs-icon.svg" />
+<img align="left" alt="Java" height="32px" width="32px" src="https://api.iconify.design/logos:java.svg" />
+<img align="left" alt="C#" width="32px" src="https://api.iconify.design/logos:c-sharp.svg" />
+<img align="left" alt="Git" width="32px" src="https://api.iconify.design/logos:git-icon.svg" />
 <br><br>
 
 ## Stats:
