@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucastferreira/)](https://www.linkedin.com/in/lucastferreira/)
 
-## A little about me:
+## About me
 
 -   👨🏻‍🎓 Graduate on Computer Science at Pontifícia Universidade Católica de São Paulo (PUC-SP)
 -   🖥 Fullstack developer
@@ -11,7 +11,7 @@
 -   📖 Currently studying PHP & Laravel
 -   🇧🇷 Brazilian
 
-## Technologies:
+## Technologies
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
 <img align="left" alt="Arch Linux" width="32px" src="https://api.iconify.design/logos:archlinux.svg" />
@@ -27,6 +27,6 @@
 <img align="left" alt="Git" width="32px" src="https://api.iconify.design/logos:git-icon.svg" />
 <br><br>
 
-## Stats:
+## Stats
 
 <img align="left" alt="LucasTF's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTF&layout=compact&theme=radical">
