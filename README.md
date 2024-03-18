@@ -15,6 +15,7 @@
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
 <img align="left" alt="Arch Linux" width="32px" src="https://api.iconify.design/logos:archlinux.svg" />
+<img align="left" alt="Bash Script" width="32px" src="https://api.iconify.design/devicon:bash.svg" />
 <img align="left" alt="HTML5" height="32px" width="32px" src="https://api.iconify.design/logos:html-5.svg" />
 <img align="left" alt="CSS3" height="32px" width="32px" src="https://api.iconify.design/logos:css-3.svg" />
 <img align="left" alt="JavaScript" width="32px" src="https://api.iconify.design/logos:javascript.svg" />
