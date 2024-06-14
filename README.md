@@ -8,7 +8,7 @@
 -   🖥 Fullstack developer
 -   🗣 Portuguese, english and spanish speaker
 -   🧠 Experience developing applications with Java, C#, JS, TS & React
--   📖 Currently studying React Native & Python
+-   📖 Currently studying Bash Script & Kotlin
 -   🇧🇷 Brazilian
 
 ## Technologies
