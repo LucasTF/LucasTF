@@ -28,7 +28,3 @@
 <img align="left" alt="C#" width="32px" src="https://api.iconify.design/logos:c-sharp.svg" />
 <img align="left" alt="MariaDB" width="32px" src="https://api.iconify.design/devicon:mariadb-wordmark.svg" />
 <br><br>
-
-## Stats
-
-<img align="left" alt="LucasTF's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTF&layout=compact&theme=radical">
